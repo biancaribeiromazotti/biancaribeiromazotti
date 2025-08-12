@@ -12,7 +12,7 @@ Formada em Engenharia de Produção em 2021 e atualmente cursando o 4º período
     align="left" 
     alt="Php"
     title="Php" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />

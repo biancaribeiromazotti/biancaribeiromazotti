@@ -107,7 +107,7 @@ Formada em Engenharia de Produção em 2021 e atualmente cursando o 4º período
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=biancaribeiromazotti&show_icons=true&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=biancaribeiromazotti&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=1"
 />
 
 </p>

@@ -53,7 +53,7 @@ Formada em Engenharia de Produção em 2021 e atualmente cursando o 4º período
     alt="Github" 
     title="Github"
     width="30px" 
-    style="padding-right: 10px; background-color: white;" 
+    style="padding-right: 10px; background: white;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 

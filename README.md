@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Formada em Engenharia de Produção em 2021 e atualmente cursando o 4º período de Análise e Desenvolvimento de Sistemas, hoje sou Desenvolvedora Web Jr na AlphaCode IT Solutions. Atuo como desenvolvedora full-stack, desenvolvendo e realizando a manutenção de diversas aplicações web de diferentes setores do mercado
+Formada em Engenharia de Produção em 2021 e atualmente cursando o 5º período de Análise e Desenvolvimento de Sistemas, hoje sou Desenvolvedora Web Jr na AlphaCode IT Solutions. Atuo como desenvolvedora full-stack, desenvolvendo e realizando a manutenção de diversas aplicações web e aplicativos de diferentes setores do mercado
 
 ---
 
